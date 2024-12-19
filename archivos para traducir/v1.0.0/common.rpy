@@ -52,7 +52,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:120
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Menú de acceso. Usa las flechas arriba y abajo para navegar y enter para activar los botones y las barras."
+    new "Menú de accesibilidad. Usa las flechas arriba y abajo para navegar y enter para activar los botones y las barras."
 
     # renpy/common/00accessibility.rpy:139
     old "Font Override"
@@ -120,7 +120,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:235
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "Las opciones en el menú son para mejorar la accesibilidad. Puede que no funcione en todos los dispositivos, algunas opciones de combinaciones del juego no estan disponibles. Esto no es un error con el juego. Para mejores resultados, mantener el tamaño del texto original al cambiar la fuente. "
+    new "Las opciones en este menú son para mejorar la accesibilidad. Puede que no funcione en todos los dispositivos e inclusive algunas opciones del juego no estén disponibles. Esto no es un error con el juego. Para mejores resultados, procurar mantener el tamaño del texto original al cambiar la fuente. "
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -284,7 +284,7 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:480
     old "Load slot %s: [text]"
-    new "Abrir partida %s: [texto]"
+    new "Cargar partida %s: [texto]"
 
     # renpy/common/00action_file.rpy:533
     old "Delete slot [text]"
@@ -304,19 +304,19 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:815
     old "Next file page."
-    new "Siguiente archivo."
+    new "Siguiente página."
 
     # renpy/common/00action_file.rpy:887
     old "Previous file page."
-    new "Anterior archivo."
+    new "Anterior página."
 
     # renpy/common/00action_file.rpy:948
     old "Quick save complete."
-    new "Respaldo completo."
+    new "Guardado rápido completo."
 
     # renpy/common/00action_file.rpy:963
     old "Quick save."
-    new "Respaldo Guardado"
+    new "Guardado rápido"
 
     # renpy/common/00action_file.rpy:982
     old "Quick load."
@@ -344,7 +344,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1581
     old "Done"
-    new "Listo"
+    new "Hecho"
 
     # renpy/common/00director.rpy:1591
     old "(statement)"
@@ -408,7 +408,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1764
     old "Transforms:"
-    new "transformación:"
+    new "Transformación:"
 
     # renpy/common/00director.rpy:1775
     old "Click to set transform, right click to add to transform list."
@@ -424,7 +424,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1799
     old "Click to set, right click to add to behind list."
-    new "Haz clic para establecer, click derecho para establecer la lista atrás."
+    new "Haz clic para establecer, click derecho para establecer la lista anterior."
 
     # renpy/common/00director.rpy:1811
     old "Transition:"
