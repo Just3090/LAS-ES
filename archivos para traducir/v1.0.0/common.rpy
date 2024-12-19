@@ -28,7 +28,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new "scroll horizontal"
+    new "movimiento horizontal"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
