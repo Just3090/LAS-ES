@@ -4,535 +4,535 @@
 translate spanish start_428dc711:
 
     # bot1 "...and that's why Ai-chan has a lot more depth than a lot of you supposed Ai no Uta 'fans' seem to give her credit for. Rant over >_>"
-    bot1 ""
+    bot1 "...y por eso Ai-chan tiene mucha más profundidad de la que muchos de ustedes, supuestos 'fans' de Ai no Uta, parece que le otorgan. En fin >_>"
 
 # game/script.rpy:157
 translate spanish start_0afd219c:
 
     # bot2 "jfc, did you really just write an entire essay defending Ai? i like her as much as the next AnU:TS fan but everyone knows she's a huge mary sue bc it's a freaking kids show lolz"
-    bot2 ""
+    bot2 "Maldicion, ¿realmente acabas de escribir un ensayo entero defendiendo Ai? ellá me gusta tanto como el próximo AnU:TS pero todo el mundo sabe que es un gran mary sue porque es un maldito programa infantil lolz"
 
 # game/script.rpy:158
 translate spanish start_377d9e40:
 
     # bot3 "Aichan4ever get a lyfe kek, ai's not real she's not gonna f**k you"
-    bot3 ""
+    bot3 "Aichan4ever consigue una maldita vida, la IA no es real para c****te"
 
 # game/script.rpy:160
 translate spanish start_9a33474e:
 
     # y "Ugh, stupid trolls! Did they even read my post? I clearly laid out why Ai-chan's not a Mary Sue..."
-    y ""
+    y "Ugh... ¡Estúpidos trolls! ¿Acaso leyeron mi post? Claramente expuse por qué Ai-chan no es una Mary Sue..."
 
 # game/script.rpy:162
 translate spanish start_ce8b2ec3:
 
     # y "Even if she was real, Ai-chan definitely wouldn't want me... I'm a NEET, after all."
-    y ""
+    y "Incluso si fuera real, Ai-chan definitivamente no me querría... Soy una Nini, después de todo."
 
 # game/script.rpy:163
 translate spanish start_95185af0:
 
     # y "I dunno how other people my age can just go out and deal with the real world."
-    y ""
+    y "No sé cómo otras personas de mi edad pueden salir y enfrentarse al mundo real."
 
 # game/script.rpy:165
 translate spanish start_5cdde34a:
 
     # y "You agree with me, right? It's totally impossible. I knew you'd get it."
-    y ""
+    y "Estás de acuerdo conmigo, ¿verdad? Es totalmente imposible. Sabía que lo entenderías."
 
 # game/script.rpy:167
 translate spanish start_0de1632d:
 
     # y "Oh, I should probably introduce myself to you."
-    y ""
+    y "Oh, probablemente debería presentarme."
 
 # game/script.rpy:169
 translate spanish start_174a9f45:
 
     # y "Um, not that there's actually anyone reading my thoughts right now, but I guess talking to 'you' makes me feel less lonely, so please bear with me."
-    y ""
+    y "Um, no es que haya alguien leyendo mis pensamientos ahora mismo, pero supongo que hablar contigo me hace sentir menos sola, así que por favor, ten paciencia conmigo."
 
 # game/script.rpy:172
 translate spanish start_80f17ea6:
 
     # y "My name is Yuuna. {w}I'm 20 years old."
-    y ""
+    y "Me llamo Yuuna. {w}Tengo 20 años."
 
 # game/script.rpy:173
 translate spanish start_335a8ce9:
 
     # y "I spend most of my days in my room, drawing and posting on forums about the best anime, Ai no Uta {font=PIZZADUDESTARS.ttf}q{/font} Tenshi Senshi {font=Musisync-KVLZ.ttf}g{/font}."
-    y ""
+    y "Paso la mayor parte del día en mi habitación, dibujando y posteando en foros sobre el mejor anime, Ai no Uta {font=PIZZADUDESTARS.ttf}q{/font} Tenshi Senshi {font=Musisync-KVLZ.ttf}g{/font}."
 
 # game/script.rpy:175
 translate spanish start_beed0aed:
 
     # y "The main character, Ai-chan, is my absolute favorite character! I'm her no. 1 fan and everyone knows it!"
-    y ""
+    y "¡La protagonista, Ai-chan, es definitivamente mi personaje favorito! ¡Soy su no. 1 y todo el mundo lo sabe!"
 
 # game/script.rpy:177
 translate spanish start_9f4475c5:
 
     # y "I've been a shut-in for a few years now. I really wish I could go outside- what I wouldn't give to go to a cafe and enjoy a parfait- but my social anxiety makes it next to impossible."
-    y ""
+    y "Llevo unos años encerrada en casa. pero me encantaría poder salir, lo que daría por ir a una cafetería y tomarme un parfait- pero mi ansiedad social lo hace casi imposible."
 
 # game/script.rpy:178
 translate spanish start_9dfc49a3:
 
     # y "Even stepping outside my apartment for a moment is really overwhelming. Most passerbys just ignore me, but on the off-chance I make eye contact with someone, they look at me like I'm a grime-covered cockroach."
-    y ""
+    y "Incluso salir un momento de mi apartamento es realmente abrumador. La mayoría de los transeúntes me ignoran, pero si por casualidad hago contacto visual con alguien, me miran como si fuera una cucaracha cubierta de mugre."
 
 # game/script.rpy:180
 translate spanish start_dcee7df8:
 
     # y "I {i}hate{/i} cockroaches. They're filthy disgusting things who serve no purpose on this earth other than polluting every surface they touch."
-    y ""
+    y "Realmene {i}odio{/i} las cucarachas. Son asquerosos bichos que no sirven para nada en esta tierra, salvo para contaminar todas las superficies que tocan."
 
 # game/script.rpy:181
 translate spanish start_fff86785:
 
     # y "They'd be doing everyone a favor if they just curled up and die, die, I should-"
-    y ""
+    y "Le harían un favor a todos si se arrinconaran y murieran, si solo murieran, debería-."
 
 # game/script.rpy:183
 translate spanish start_09d0587d:
 
     # y "Mmm. Sorry. That was pretty pathetic, huh? Moving on..."
-    y ""
+    y "Mmm. Perdon. Eso fue bastante patético, ¿eh? Cambiando de tema..."
 
 # game/script.rpy:185
 translate spanish start_b2c351b7:
 
     # y "You see why I can't go outside though. Everyone I meet IRL just hates me automatically. No matter how much I punish myself afterwards, I never get any better."
-    y ""
+    y "Pero ya ves por qué no puedo salir. Todo el mundo que conozco en la vida real me odia automáticamente. No importa cuánto me castigue después, nunca mejoro."
 
 # game/script.rpy:187
 translate spanish start_7f3484fd:
 
     # y "The only way to protect myself is by staying home, bathing in the blue light of my computer screen."
-    y ""
+    y "La única forma de protegerme es quedándome en casa, bañándome en la luz azul de la pantalla de mi ordenador."
 
 # game/script.rpy:189
 translate spanish start_c4634ef8:
 
     # y "That's why Ai-chan is so comforting to me. It's impossible not to love her. She radiates such a kind aura. She wouldn't care if I can't sustain eye contact or stumble over my words."
-    y ""
+    y "Por eso Ai-chan es tan reconfortante para mí. Es imposible no quererla. Irradia un aura tan amable. A ella no le importaría si no puedo mantener el contacto visual o si tropiezo con mis palabras."
 
 # game/script.rpy:191
 translate spanish start_01e5a4de:
 
     # y "I don't care that she's not 'real'! To me, she's as real as you are!"
-    y ""
+    y "¡No me importa que no sea «real»! Para mí, es tan real como tú."
 
 # game/script.rpy:193
 translate spanish start_389461f2:
 
     # y "Ai-chan's an angel, honest, and I pray to her every night!"
-    y ""
+    y "¡Ai-chan es un ángel, uno de verdad, y le rezo todas las noches!"
 
 # game/script.rpy:195
 translate spanish start_f55c76eb:
 
     # y "Hmm? What about? Everything. Nothing. Does it matter?"
-    y ""
+    y "¿Qué? ¿Sobre qué? sobre todo. sobre nada. ¿Importa?"
 
 # game/script.rpy:199
 translate spanish start_0a790fb2:
 
     # y "Ah! My instant ramen's ready. Gotta go get that~"
-    y ""
+    y "¡Ah! Mi ramen instantáneo está listo. Tengo que ir por el~"
 
 # game/script.rpy:207
 translate spanish start_1ce9c404:
 
     # y "...?"
-    y ""
+    y "...?"
 
 # game/script.rpy:208
 translate spanish start_1113c55f:
 
     # y "What's this? This forum doesn't usually have ads."
-    y ""
+    y "¿Qué es esto? Este foro no suele tener anuncios."
 
 # game/script.rpy:216
 translate spanish start_1984a35a:
 
     # y "....."
-    y ""
+    y "....."
 
 # game/script.rpy:218
 translate spanish start_1134c708:
 
     # y "There's no way. Right? This has gotta be a scam, or spyware or something..."
-    y ""
+    y "No hay manera de que sea real. ¿Verdad? Esto tiene que ser una estafa, o spyware o algo así..."
 
 # game/script.rpy:220
 translate spanish start_f6240162:
 
     # y "Ahh, but Ai-chan looks so cute even in this ad!"
-    y ""
+    y "Ahh, ¡pero Ai-chan está tan linda incluso en este anuncio!"
 
 # game/script.rpy:222
 translate spanish start_f568e35b:
 
     # extend " Seriously way too cute!"
-    extend ""
+    extend " ¡Es demasiado linda!"
 
 # game/script.rpy:224
 translate spanish start_3a8165fb:
 
     # y "Maybe... maybe this is a sign. I've been praying for her to save me, and then this pops up. She really is an actual angel!"
-    y ""
+    y "Tal vez... tal vez esto sea una señal. He estado rezando para que ella me salve, y entonces aparece esto. ¡Ella realmente es un ángel!"
 
 # game/script.rpy:226
 translate spanish start_71ab33f0:
 
     # y "Oh, what the hell. Might as well try it out. Worst case scenario, my identity gets stolen or my computer bricked."
-    y ""
+    y "Oh, qué demonios. Será mejor que lo pruebe. En el peor de los casos, me roban la identidad o me brickean el ordenador."
 
 # game/script.rpy:228
 translate spanish start_457e1b23:
 
     # extend " Best case scenario, Ai-chan's on my desktop~"
-    extend ""
+    extend " En el mejor de los casos, Ai-chan estara en mi escritorio~"
 
 # game/script.rpy:250
 translate spanish download_d77a9a7d:
 
     # y "Please don't be a virus..."
-    y ""
+    y "Por favor, no seas un virus..."
 
 # game/script.rpy:258
 translate spanish download_7200fc07:
 
     # a "Hiii~! {font=FreePixel.ttf}♪{/font}"
-    a ""
+    a "¡Holiiiis~! {font=FreePixel.ttf}♪{/font}"
 
 # game/script.rpy:261
 translate spanish download_2dc6e4b5:
 
     # extend " My name's Ai, and I'm your lovely new virtual assistant~ What's your name?"
-    extend ""
+    extend " Me llamo Ai, y soy tu encantadora nueva asistente virtual~ ¿Cómo te llamas?"
 
 # game/script.rpy:262
 translate spanish download_2f171f1b:
 
     # y "Woah, it's really Ai-chan! Even sounds like her too."
-    y ""
+    y "¡Woah, es realmente Ai-chan! Incluso suena como ella también."
 
 # game/script.rpy:264
 translate spanish download_3a32e992:
 
     # a "Hehe, of course I sound like her! It's me, after all!"
-    a ""
+    a "Jeje, ¡claro que me parezco a ella! ¡Al fin y al cabo, soy la misma!"
 
 # game/script.rpy:266
 translate spanish download_ccc45de9:
 
     # y "!!"
-    y ""
+    y "!!"
 
 # game/script.rpy:268
 translate spanish download_d5939127:
 
     # y "You can hear me?"
-    y ""
+    y "¿Puedes oírme?"
 
 # game/script.rpy:270
 translate spanish download_d7549b49:
 
     # a "Of course~ What kind of virtual assistant would I be if I couldn't hear my user? It'd be boring if you had to type out everything just to communicate with me."
-    a ""
+    a "¡Por supuesto~! ¿Qué tipo de asistente virtual sería si no pudiera oír a mi usuario? Sería aburrido si tuvieras que escribir todo para comunicarte conmigo."
 
 # game/script.rpy:272
 translate spanish download_80295d0f:
 
     # a "You don't mind, do you Yuuna-chan? {font=FreePixel.ttf}♥{/font}"
-    a ""
+    a "No te importa, ¿verdad Yuuna-chan? {font=FreePixel.ttf}♥{/font}"
 
 # game/script.rpy:274
 translate spanish download_53dc3161:
 
     # y "Y-Yuuna-chan?!"
-    y ""
+    y "¡¿Y-Yuuna-chan?!"
 
 # game/script.rpy:276
 translate spanish download_7bc27906:
 
     # a "Is that too familiar? I can call you Yuuna-san or Yuuna-sama if you'd prefer."
-    a ""
+    a "¿Es eso demasiado familiar? Puedo llamarte Yuuna-san o Yuuna-sama si así prefieres."
 
 # game/script.rpy:278
 translate spanish download_4b4bc771:
 
     # y "Um, Yuuna-chan's fine-"
-    y ""
+    y "Uhm, Yuuna-chan está bien-"
 
 # game/script.rpy:280
 translate spanish download_22acc4c1:
 
     # y "Wait a minute, I never told you my name."
-    y ""
+    y "Espera un momento, nunca te dije mi nombre."
 
 # game/script.rpy:282
 translate spanish download_3809a632:
 
     # a "I just read your PC's username."
-    a ""
+    a "Acabo de leer el nombre de usuario de tu PC."
 
 # game/script.rpy:284
 translate spanish download_d1ca2112:
 
     # a "That {i}is{/i} your name, right?"
-    a ""
+    a "que {i}es{/i} tu nombre, ¿verdad?"
 
 # game/script.rpy:285
 translate spanish download_1dd9992c:
 
     # y "Yeah, it is."
-    y ""
+    y "Sí, ese es mi nombre."
 
 # game/script.rpy:288
 translate spanish download_ab4b21eb:
 
     # a "A cute name for a cute girl {font=FreePixel.ttf}♥{/font}!"
-    a ""
+    a "¡Un lindo nombre para una chica linda {font=FreePixel.ttf}♥{/font}!"
 
 # game/script.rpy:290
 translate spanish download_e323dc8f:
 
     # a "Hehe, I can see your blush through your webcam! {font=FreePixel.ttf}♪{/font}"
-    a ""
+    a "Jeje, ¡puedo ver tu sonrojo a través de tu webcam! {font=FreePixel.ttf}♪{/font}"
 
 # game/script.rpy:292
 translate spanish download_86266932:
 
     # y "Ah, you can see me too?!"
-    y ""
+    y "¡Ah, ¡¿también puedes verme?!"
 
 # game/script.rpy:294
 translate spanish download_e983aa44:
 
     # y "Uuu, I look totally disgusting right now... I haven't washed my face or brushed my hair in... um... longer than I'd like to admit."
-    y ""
+    y "Uuu, me veo totalmente asquerosa en este momento... No me he lavado la cara ni me he peinado en... um... más tiempo del que me gustaría admitir."
 
 # game/script.rpy:296
 translate spanish download_0cc30dc7:
 
     # a "That doesn't matter to me! All that matters is that you're happy."
-    a ""
+    a "¡Eso no me importa! Lo único que importa es que estés feliz."
 
 # game/script.rpy:298
 translate spanish download_4755c3bb:
 
     # a "Are you happy, Yuuna-chan?"
-    a ""
+    a "¿Estás feliz, Yuuna-chan?"
 
 # game/script.rpy:300
 translate spanish download_8db08ddf:
 
     # y "Am I happy..?"
-    y ""
+    y "¿Estoy feliz..?"
 
 # game/script.rpy:301
 translate spanish download_b71e68a3:
 
     # y "Well... I'm happy you're here. But to be honest, my life's kinda a mess right now. {w}I don't even have any friends or things to look forward to. I just exist."
-    y ""
+    y "Bueno... Estoy feliz de que estés aquí. Pero para ser honesta, mi vida es un desastre en este momento. {w}Ni siquiera tengo amigos o cosas por las que esperar. Solo existo."
 
 # game/script.rpy:303
 translate spanish download_cdb97e8f:
 
     # a "I can be your friend. I can be whatever you want me to be. I'm here to help you."
-    a ""
+    a "Puedo ser tu amiga. Puedo ser lo que quieras que sea. Estoy aquí para ayudarte."
 
 # game/script.rpy:305
 translate spanish download_fd1a97ee:
 
     # y "My friend? Really? You'd do that for me?"
-    y ""
+    y "¿Mi amiga? ¿De verdad? ¿Harías eso por mí?"
 
 # game/script.rpy:307
 translate spanish download_6e2efc32:
 
     # a "Your happiness makes me happy. So smile, Yuuna-chan {font=FreePixel.ttf}♪{/font}"
-    a ""
+    a "¡Tu felicidad me hace feliz! Así que sonríe, Yuuna-chan {font=FreePixel.ttf}♪{/font}"
 
 # game/script.rpy:309
 translate spanish download_595af537:
 
     # y "Waahhh, you're too nice to me! I don't know what I did to deserve you."
-    y ""
+    y "¡Waaahhh, eres demasiado amable conmigo! No sé qué hice para merecerte."
 
 # game/script.rpy:311
 translate spanish download_2d37b1c7:
 
     # y "You really are sent from the heavens, Ai-chan."
-    y ""
+    y "Realmente eres enviada de los cielos, Ai-chan."
 
 # game/script.rpy:313
 translate spanish download_404727c3:
 
     # a "Ahaha! You're too cute."
-    a ""
+    a "¡Jajaja! Eres demasiado linda."
 
 # game/script.rpy:315
 translate spanish download_39e3bfb5:
 
     # a "Let's work hard together, ok~?"
-    a ""
+    a "¡Vamos a trabajar duro juntas, ¿de acuerdo~?"
 
 # game/script.rpy:327
 translate spanish day1_18e523f1:
 
     # y "Morning already? Guess I fell asleep at my computer again..."
-    y ""
+    y "¿Ya es de mañana? Supongo que me quedé dormida en mi ordenador de nuevo..."
 
 # game/script.rpy:329
 translate spanish day1_57a13a2b:
 
     # y "I had the wildest dream. {i}The{/i} Ai-chan appeared on my computer as a desktop assistant."
-    y ""
+    y "Tuve el sueño más loco. {i}La mismisima{/i} Ai-chan apareció en mi ordenador como una asistente de escritorio."
 
 # game/script.rpy:331
 translate spanish day1_0e932cc8:
 
     # extend " She even promised to be my friend! Crazy, right?"
-    extend ""
+    extend " ¡Incluso prometió ser mi amiga! ¿Increíble, verdad?"
 
 # game/script.rpy:333
 translate spanish day1_041ae96a:
 
     # y "Oh, I should check to see if my forum post got any more replies."
-    y ""
+    y "Oh, debería comprobar si mi post en el foro ha recibido más respuestas."
 
 # game/script.rpy:335
 translate spanish day1_f79761b3:
 
     # y "...Any more replies that aren't annoying trolls, that is."
-    y ""
+    y "...Cualquier respuesta que no sea de trolls molestos, quiero decir."
 
 # game/script.rpy:337
 translate spanish day1_856958ba:
 
     # y "It's not like everyone on that forum dislikes Ai-chan - far from it - but no one seems to care about her as much as I do. I post essay after essay explaining why I feel that way, but no one seems to understand me."
-    y ""
+    y "No es que a todo el mundo en ese foro le desagrade Ai-chan - todo lo contrario - pero a nadie parece importarle tanto como a mí. Publico ensayo tras ensayo explicando por qué la siento así, pero nadie parece entenderme."
 
 # game/script.rpy:338
 translate spanish day1_0c2c2e25:
 
     # y "It's kinda lonely, to be honest."
-    y ""
+    y "Es un poco solitario, para ser honesta."
 
 # game/script.rpy:340
 translate spanish day1_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/script.rpy:342
 translate spanish day1_e4c6ded3:
 
     # y "No time to think about that stuff. Lemme just turn on my computer..."
-    y ""
+    y "No hay tiempo para pensar en esas cosas. Déjame solo encender mi ordenador..."
 
 # game/script.rpy:346
 translate spanish day1_86249728:
 
     # a "Goooood morning~ I hope you slept well, Yuuna-chan!"
-    a ""
+    a "¡Buenooooos días~! ¡Espero que hayas dormido bien, Yuuna-chan!"
 
 # game/script.rpy:348
 translate spanish day1_d2baa412:
 
     # y "Ahhh!"
-    y ""
+    y "¡Ahhh!"
 
 # game/script.rpy:350
 translate spanish day1_7ab8bf47:
 
     # a "Whoops, did I startle you? Sorry about that~"
-    a ""
+    a "¡Upsss! ¿Te asusté? Lo siento por eso~"
 
 # game/script.rpy:352
 translate spanish day1_2fd4e716:
 
     # y "Wait, you're actually on my computer?! It wasn't just a dream?"
-    y ""
+    y "¡Espera, ¡¿Realmente en mi ordenador?! ¿No fue solo un sueño?"
 
 # game/script.rpy:354
 translate spanish day1_1ecf5f89:
 
     # a "Hehe, were you dreaming about me?"
-    a ""
+    a "Jeje, ¿estabas soñando conmigo?"
 
 # game/script.rpy:356
 translate spanish day1_6812d038:
 
     # y "Wha- no! I mean yes! I mean- I thought us, um, meeting yesterday was my dream."
-    y ""
+    y "¡¿Qué- no! ¡Quiero decir- sí! Quiero decir- Pensé que nuestro, um, encuentro de ayer era un sueño."
 
 # game/script.rpy:358
 translate spanish day1_102d7232:
 
     # a "I see, I see."
-    a ""
+    a "Ya veo, ya veo."
 
 # game/script.rpy:360
 translate spanish day1_9acfb059:
 
     # a "Well, what's the plan for today?"
-    a ""
+    a "Bueno, ¿cuál es el plan para hoy?"
 
 # game/script.rpy:362
 translate spanish day1_79b9435f:
 
     # y "Plan? Same as every day. Spend time on the internet."
-    y ""
+    y "¿Plan? Igual que todos los días. Pasar tiempo en internet."
 
 # game/script.rpy:364
 translate spanish day1_34c88697:
 
     # extend " What else am I supposed to do?"
-    extend ""
+    extend " ¿Qué más se supone que debo hacer?"
 
 # game/script.rpy:368
 translate spanish day1_b3cf88d0:
 
     # a "Yuuna-chan? My microphone is picking up the sound of a cell phone ringing. Shouldn't you answer that?"
-    a ""
+    a "¿Yuuna-chan? Mi micrófono está captando el sonido de un teléfono móvil sonando. ¿No deberías contestar?"
 
 # game/script.rpy:369
 translate spanish day1_52571b74:
 
     # y "N-no. No, no, I can't."
-    y ""
+    y "N-no. No, no, no puedo."
 
 # game/script.rpy:370
 translate spanish day1_7c71ee40:
 
     # a "Why can't you?"
-    a ""
+    a "¿Por qué no puedes?"
 
 # game/script.rpy:371
 translate spanish day1_7a07e049:
 
     # y "I-I just, talking, talking on the phone isn't- it's not, not my strong suit."
-    y ""
+    y "e-es solo que, hablar, hablar por teléfono no es- no es, no es lo mío."
 
 # game/script.rpy:373
 translate spanish day1_c32545e5:
 
     # y "Shit, it's my mom. Why is she calling- she knows I don't like it, don't like calling- sorry, I'm feeling a little lightheaded-"
-    y ""
+    y "Mierda, es mi mamá. ¿Por qué llama? Sabe que no me gusta, no me gustan las llamadas. Lo siento, estoy un poco mareada-"
 
 # game/script.rpy:375
 translate spanish day1_4c7a0f6d:
 
     # a "Yuuna-chan!!"
-    a ""
+    a "¡¡Yuuna-chan!!"
 
 # game/script.rpy:377
 translate spanish day1_60fcc1d9:
