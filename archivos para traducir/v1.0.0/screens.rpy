@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/screens.rpy:249
     old "History"
-    new "Historis"
+    new "Historia"
 
     # game/screens.rpy:250
     old "Skip"
@@ -260,7 +260,7 @@ translate spanish strings:
 
     # game/screens.rpy:1153
     old "Hides the user interface."
-    new "Esconder el usuario de interfase."
+    new "Ocultar interfaz de usuario"
 
     # game/screens.rpy:1157
     old "Takes a screenshot."
@@ -308,7 +308,7 @@ translate spanish strings:
 
     # game/screens.rpy:1207
     old "D-Pad, Sticks"
-    new "D-Pad,Palancas"
+    new "D-Pad, Palancas"
 
     # game/screens.rpy:1211
     old "Start, Guide"
