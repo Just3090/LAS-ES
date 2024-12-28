@@ -272,7 +272,7 @@ translate spanish strings:
 
     # game/screens.rpy:1165
     old "Opens the accessibility menu."
-    new "Abribr menú de accesibilidad"
+    new "Abrir menú de accesibilidad"
 
     # game/screens.rpy:1171
     old "Left Click"
