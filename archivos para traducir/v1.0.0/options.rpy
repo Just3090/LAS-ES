@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/options.rpy:15
     old "LOVE ANGEL SYNDROME"
-    new "SÍNDROME DEL ÁNGEL DEL AMOR"
+    new "LOVE ANGEL SYNDROME"
 
     ## texto del splash screen
     # game/script.rpy:127
