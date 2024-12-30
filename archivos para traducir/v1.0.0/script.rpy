@@ -538,229 +538,229 @@ translate spanish day1_4c7a0f6d:
 translate spanish day1_60fcc1d9:
 
     # a "Look at me, ok? Look at me. Never mind the phone call, you can text her back once you've calmed down."
-    a ""
+    a "Mírame, ¿vale? Mírame. No importa la llamada, puedes mandarle un mensaje cuando te hayas calmado."
 
 # game/script.rpy:379
 translate spanish day1_f5453556:
 
     # a "How about we do some deep breathing exercises together?"
-    a ""
+    a "¿Qué tal si hacemos algunos ejercicios de respiración profunda juntos?"
 
 # game/script.rpy:391
 translate spanish guidance_a7602f9f:
 
-    # y "O-ok. Breathing sounds, sounds nice."
-    y ""
+    # y "O-ok. Breathing sounds, sounds nice." Tengo dudas sobre esta traduccion, pero siento que esto es lo q suena mejor
+    y "O-ok. Respirar suena, suena bien."
 
 # game/script.rpy:393
 translate spanish guidance_0ca3ceea:
 
     # a "Breathe in for 4 seconds... Hold for 4 more... That's it. {w}Exhale for 4 seconds, out your mouth. Good, good."
-    a ""
+    a "Inspira durante 4 segundos... Aguanta 4 más... Eso es. {w}Exhala durante 4 segundos, por la boca. Bien, bien."
 
 # game/script.rpy:395
 translate spanish guidance_6085e167:
 
     # a "Imagine you're tracing a box in your mind. In 4, hold 4, out 4, hold 4, repeat."
-    a ""
+    a "Imagina que estás trazando una caja en tu mente. Dentro 4, mantén 4, fuera 4, mantén 4, repite."
 
 # game/script.rpy:397
 translate spanish guidance_0cd7bda2:
 
     # y "Fuuu..."
-    y ""
+    y "Fuuu..."
 
 # game/script.rpy:399
 translate spanish guidance_f2f81e59:
 
     # extend " Ok. Ok, I think I'm good. How did you- how did you know how to do that?"
-    extend ""
+    extend " De acuerdo. Ok, creo que estoy bien. ¿Cómo supiste hacer eso?"
 
 # game/script.rpy:401
 translate spanish guidance_80196823:
 
     # y "You're actually a real angel, aren't you? Sent from heaven to help me."
-    y ""
+    y "En realidad eres un ángel de verdad, ¿no? Enviada del cielo para ayudarme."
 
 # game/script.rpy:403
 translate spanish guidance_e35b9fc6:
 
     # a "Hehe!"
-    a ""
+    a "¡Jeje!"
 
 # game/script.rpy:405
 translate spanish guidance_dee050fb:
 
     # extend " If you find that comforting, then sure."
-    extend ""
+    extend " Si eso te reconforta, entonces claro."
 
 # game/script.rpy:407
 translate spanish guidance_677ce7b8:
 
     # a "Yuuna-chan... if you don't mind me asking, why don't you want to talk to your mom?"
-    a ""
+    a "Yuuna-chan... si no te importa que te pregunte, ¿por qué no quieres hablar con tu madre?"
 
 # game/script.rpy:409
 translate spanish guidance_eb9c8215:
 
     # y "Mmm... it's kinda complicated."
-    y ""
+    y "Mmm... es un poco complicado."
 
 # game/script.rpy:411
 translate spanish guidance_0b50077d:
 
     # a "I'm here to listen if you'd like to vent."
-    a ""
+    a "Estoy aquí para escucharte si quieres desahogarte."
 
 # game/script.rpy:413
 translate spanish guidance_35811da4:
 
     # extend " Whatever I can do to help {font=FreePixel.ttf}♥{/font}"
-    extend ""
+    extend " Lo que pueda hacer para ayudar {font=FreePixel.ttf}♥{/font}"
 
 # game/script.rpy:415
 translate spanish guidance_ddacafa8:
 
     # y "You're too nice, Ai-chan."
-    y ""
+    y "Eres demasiado amable, Ai-chan."
 
 # game/script.rpy:417
 translate spanish guidance_0da90145:
 
     # y "Well, a couple years ago, I graduated high school and passed my entrance exams for college, so the next step was to move out into the city."
-    y ""
+    y "Bueno, hace un par de años me gradué en el instituto y aprobé las pruebas de acceso a la universidad, así que el siguiente paso era irme a vivir a la ciudad."
 
 # game/script.rpy:418
 translate spanish guidance_a038ae5e:
 
     # y "That's what you're supposed to do as a young adult, right?"
-    y ""
+    y "Eso es lo que se supone que debes hacer cuando eres un adulto joven, ¿verdad?"
 
 # game/script.rpy:420
 translate spanish guidance_fa60db79:
 
     # y "Do well in high school so you can get into university, suffer through four more years and somehow make it out the other side with a degree then dedicate the rest of your life to working as a corporate slave."
-    y ""
+    y "Hacer un buen papel en el instituto para poder entrar en la universidad, sufrir durante cuatro años más y, de alguna manera, salir del otro lado con un título y luego dedicar el resto de tu vida a trabajar como un esclavo corporativo."
 
 # game/script.rpy:422
 translate spanish guidance_e6fda1aa:
 
     # a "Oh, so you're a university student right now, then? How amazing!"
-    a ""
+    a "¿Así que ahora eres estudiante de universidad? ¡Qué increíble!"
 
 # game/script.rpy:424
 translate spanish guidance_c693db1d:
 
     # y "That's the problem. Once I got here, I kinda had an, um, mental breakdown, locked myself in my apartment, and missed the enrollment period for university."
-    y ""
+    y "Ése es el problema. Cuando llegué aquí, tuve una especie de colapso mental, me encerré en mi apartamento y perdí el período de inscripción en la universidad."
 
 # game/script.rpy:426
 translate spanish guidance_6bc2d23c:
 
     # a "There's always next year-"
-    a ""
+    a "Siempre queda el año que viene-"
 
 # game/script.rpy:427
 translate spanish guidance_1b9b173a:
 
     # y "Twice. I missed the enrollment period twice."
-    y ""
+    y "Dos veces. He perdido dos veces el periodo de inscripción."
 
 # game/script.rpy:429
 translate spanish guidance_6d73ac93:
 
     # y "And I still haven't told my parents."
-    y ""
+    y "Y todavía no se lo he dicho a mis padres."
 
 # game/script.rpy:431
 translate spanish guidance_d648ed8b:
 
     # a "Ah. I see."
-    a ""
+    a "Ah. Ya veo."
 
 # game/script.rpy:433
 translate spanish guidance_d7369cee:
 
     # a "Are you afraid they'll be angry at you?"
-    a ""
+    a "¿Tienes miedo de que se enfaden contigo?"
 
 # game/script.rpy:435
 translate spanish guidance_d5e35b57:
 
     # y "Not just that. I feel so guilty. I should have told them sooner - hell, I should've just signed up on time in the first place - but it's been too long and now it'd be super awkward to finally tell them."
-    y ""
+    y "No sólo eso. Me siento muy culpable. Debería habérselo dicho antes -demonios, debería haberme apuntado a tiempo desde el principio - pero ha pasado demasiado tiempo y ahora sería súper incómodo decírselo por fin."
 
 # game/script.rpy:436
 translate spanish guidance_7711d5fb:
 
     # a "When's the last time you've spoken to your parents?"
-    a ""
+    a "¿Cuándo fue la última vez que hablaste con tus padres?"
 
 # game/script.rpy:438
 translate spanish guidance_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/script.rpy:440
 translate spanish guidance_dc440c7b:
 
     # a "Yuuna-chan, they're probably worried sick about you."
-    a ""
+    a "Yuuna-chan, seguro que están muy preocupados por ti."
 
 # game/script.rpy:441
 translate spanish guidance_07bb3da7:
 
     # y "I know..."
-    y ""
+    y "Lo sé..."
 
 # game/script.rpy:443
 translate spanish guidance_7b424efd:
 
     # a "If I could give you some advice? You should tell them the truth. It'll lighten your guilty conscience, and they'll be relieved to know you're at least alive."
-    a ""
+    a "¿Si pudiera darte un consejo? Deberías decirles la verdad. Aliviará tu mala conciencia, y se sentirán aliviados de saber que al menos estás viva."
 
 # game/script.rpy:446
 translate spanish guidance_0ad5a1eb:
 
     # y "!"
-    y ""
+    y "!"
 
 # game/script.rpy:448
 translate spanish guidance_f00d3c51:
 
     # y "It's her again."
-    y ""
+    y "Es ella otra vez."
 
 # game/script.rpy:450
 translate spanish guidance_fb263791:
 
     # a "I believe in you, Yuuna-chan! You can do this!!"
-    a ""
+    a "¡Creo en ti, Yuuna-chan! ¡¡Puedes hacerlo!!"
 
 # game/script.rpy:452
 translate spanish guidance_5371dda4:
 
     # y "I really hope I don't regret this."
-    y ""
+    y "Realmente espero no arrepentirme de esto."
 
 # game/script.rpy:457
 translate spanish guidance_baefc0a4:
 
     # y "*sigh* ...Hey, Mom."
-    y ""
+    y "*suspiro* ...Hey, Mamá."
 
 # game/script.rpy:458
 translate spanish guidance_c9d3aabf:
 
     # ym "Yuuna! Wow, you actually picked up. I thought- never mind. Are you well?"
-    ym ""
+    ym "¡Yuuna! Vaya, realmente contestaste. Pensé que- olvídalo. ¿Estás bien?"
 
 # game/script.rpy:460
 translate spanish guidance_b50706e9:
 
     # y "As well as I can be, I guess."
-    y ""
+    y "Tan bien como puedo estar, supongo."
 
 # game/script.rpy:461
 translate spanish guidance_bf0b6843:
