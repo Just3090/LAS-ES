@@ -4,7 +4,7 @@
 translate spanish start_428dc711:
 
     # bot1 "...and that's why Ai-chan has a lot more depth than a lot of you supposed Ai no Uta 'fans' seem to give her credit for. Rant over >_>"
-    bot1 "...y por eso Ai-chan tiene mucha más profundidad de la que muchos de ustedes, supuestos 'fans' de Ai no Uta, parece que le otorgan. En fin >_>"
+    bot1 "...y por eso Ai-chan tiene mucha más profundidad de la que muchos de vosotros, supuestos 'fans' de Ai no Uta, parece que le otorgan. En fin >_>"
 
 # game/script.rpy:157
 translate spanish start_0afd219c:
