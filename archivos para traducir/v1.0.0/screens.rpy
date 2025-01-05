@@ -136,7 +136,7 @@ translate spanish strings:
 
     # game/screens.rpy:848
     old "Unseen Text"
-    new "Texto oculto"
+    new "Texto no visto"
 
     # game/screens.rpy:849
     old "After Choices"
@@ -168,11 +168,11 @@ translate spanish strings:
 
     # game/screens.rpy:891
     old "Voice Volume"
-    new "Volumen de voz"
+    new "Volumen de las voces"
 
     # game/screens.rpy:902
     old "Mute All"
-    new "Silenciar"
+    new "Silenciar todo"
 
     # game/screens.rpy:913
     old "Language"
@@ -180,7 +180,7 @@ translate spanish strings:
 
     # game/screens.rpy:1034
     old "The dialogue history is empty."
-    new "El dialogo en la historia esta vacio"
+    new "El dialogo de la historia esta vacio"
 
     # game/screens.rpy:1103
     old "Keyboard"
@@ -216,7 +216,7 @@ translate spanish strings:
 
     # game/screens.rpy:1129
     old "Navigate the interface."
-    new "Navega la interfase."
+    new "Navegar por la interfaz."
 
     # game/screens.rpy:1132
     old "Escape"
@@ -264,7 +264,7 @@ translate spanish strings:
 
     # game/screens.rpy:1157
     old "Takes a screenshot."
-    new "Tomar captura de pantalla."
+    new "Sacar captura de pantalla."
 
     # game/screens.rpy:1161
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
@@ -288,11 +288,11 @@ translate spanish strings:
 
     # game/screens.rpy:1183
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Rueda el mouse arriba\nClic lateral para retroceder"
+    new "Rueda de ratón arriba\nClic lateral para retroceder"
 
     # game/screens.rpy:1187
     old "Mouse Wheel Down"
-    new "Rueda el mouse hacia abajo"
+    new "Rueda de ratón hacia abajo"
 
     # game/screens.rpy:1194
     old "Right Trigger\nA/Bottom Button"
@@ -320,7 +320,7 @@ translate spanish strings:
 
     # game/screens.rpy:1218
     old "Calibrate"
-    new "Calibra"
+    new "Calibrar"
 
     # game/screens.rpy:1283
     old "Yes"
