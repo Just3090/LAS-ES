@@ -916,61 +916,61 @@ translate spanish guidance_bb77b606:
 translate spanish guidance_dc3ba7c7:
 
     # ym "I heard you the first time!"
-    ym "¡Te escuché la primera vez!"
+    ym "¡Te he escuchado a la primera!"
 
 # game/script.rpy:501
 translate spanish guidance_3ec4deaa:
 
     # y "You- you smother me with your f-fucking expectations! Why do you think I avoided your calls for so long?!"
-    y "¡Me- me asfixias con tus p- putas expectativas! ¿¡Por qué piensas que evité tus llamadas tanto tiempo?!"
+    y "¡Me- me asfixias con tus p- putas expectativas! ¿¡Por qué piensas que evité tus llamadas durante tanto tiempo?!"
 
 # game/script.rpy:502
 translate spanish guidance_9b1ad5eb:
 
     # y "I'd have rather never spoken to you again as long as you still loved the memory of your good, sweet daughter, than have your image of me soiled by reality!"
-    y ""
+    y "¡Habría preferido no volver a hablar contigo nunca más mientras siguieras amando el recuerdo de tu buena y dulce hija, antes que ver tu imagen de mí manchada por la realidad!"
 
 # game/script.rpy:503
 translate spanish guidance_5c4cedd1:
 
     # ym "Y-Yuuna-"
-    ym ""
+    ym "Yu- Yuuna-"
 
 # game/script.rpy:509
 translate spanish guidance_17ce4973:
 
     # a "That... that went poorly. Um, are you okay?"
-    a ""
+    a "Eso... eso salió mal. Eh, ¿Estás bien?"
 
 # game/script.rpy:511
 translate spanish guidance_543d698b:
 
     # y "Worthless... worthless, soiled, rotten, dirty, filthy cockroach..."
-    y ""
+    y "Inútil... Inútil, manchada, podrida, sucia, asquerosa cucaracha..."
 
 # game/script.rpy:512
 translate spanish guidance_c867460d:
 
     # y "Cockroach, cockroach needs its legs sawed off. That's the only proper punishment for its worthless existence."
-    y ""
+    y "Cucaracha, a la cucaracha hay que cortarle las patas. Ese es el único castigo adecuado para su inútil existencia."
 
 # game/script.rpy:513
 translate spanish guidance_23f7a5b3:
 
     # a "What are you talking about-"
-    a ""
+    a "Qué estás diciendo-"
 
 # game/script.rpy:521
 translate spanish guidance_7b3e29d0:
 
     # y "This is the only way to fix things. This is - hahh - justice. This is what I deserve."
-    y ""
+    y "Esta es la única manera de arreglar las cosas. Esto es... jaja... justicia. Esto es lo que merezco."
 
 # game/script.rpy:522
 translate spanish guidance_af4b78c1:
 
     # y "I can't control how my mother hurts me, but I can control how I hurt myself. Look how much control I have! I've got a whole armful of it!"
-    y ""
+    y "No puedo controlar cómo me daña mi madre, pero sí puedo controlar cómo me hiero yo. ¡Mira cuánto control tengo! ¡Tengo todo el brazo lleno de ello!"
 
 # game/script.rpy:523
 translate spanish guidance_2f29b99d:
@@ -982,19 +982,19 @@ translate spanish guidance_2f29b99d:
 translate spanish guidance_fb122490:
 
     # a "Please put the razor down. You don't need to do this. Please."
-    a ""
+    a "Por favor, deja la cuchilla. No necesitas hacer esto. Por favor."
 
 # game/script.rpy:525
 translate spanish guidance_5c64ac92:
 
     # y "Why not?"
-    y ""
+    y "¿Por qué no?"
 
 # game/script.rpy:526
 translate spanish guidance_d489b658:
 
     # a "You poor thing..."
-    a ""
+    a "Pobrecito."
 
 # game/script.rpy:527
 translate spanish guidance_0dfac90f:
@@ -1036,7 +1036,7 @@ translate spanish guidance_ba83b5bb:
 translate spanish guidance_489e707c:
 
     # a "Yes. It hurts me to see you hurting. I'm pretty sure that's what that feeling in my chest is, anyways."
-    a "Sí. me duele ver que te duele. Estoy segura que eso es lo que siento en mi pecho, de todas maneras."
+    a "Sí. me duele ver que te hagas daño. Estoy seguro que eso es lo que siento en mi pecho, de todas maneras."
 
 # game/script.rpy:534
 translate spanish guidance_7d769911:
@@ -1072,13 +1072,13 @@ translate spanish guidance_eaf7afb0:
 translate spanish guidance_d37746a5:
 
     # y "Got the bandages. Gauze pad too."
-    y ""
+    y "Tengo las vendas. También el apósito."
 
 # game/script.rpy:550
 translate spanish guidance_d28449e9:
 
     # a "Good girl. If it makes you feel better, you can imagine I'm the one tending to your wounds. I am a nurse, after all {font=FreePixel.ttf}♪{/font}"
-    a ""
+    a "Buena chica. Si te hace sentir mejor, puedes imaginar que soy yo quien atiende tus heridas. Después de todo, soy enfermero. {font=FreePixel.ttf}♪{/font}"
 
 # game/script.rpy:551
 translate spanish guidance_d7d38eda:
