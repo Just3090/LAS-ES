@@ -886,7 +886,7 @@ translate spanish guidance_ae4bfad7:
 translate spanish guidance_961ca670:
 
     # ym "Being a productive member of society is the only real way to live. I did not spend 18 years of my life raising some worthless shut-in!"
-    ym "Ser un miembro productivo de la sociedsd es la única manera real de vivir. ¡No he gastado 18 años de mi vida criando a un prisionero inútil."
+    ym "Ser un miembro productivo de la sociedad es la única manera real de vivir. ¡No he invertido 18 años de mi vida criando a un prisionero inútil."
 
 # game/script.rpy:494
 translate spanish guidance_7ec41001:
