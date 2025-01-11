@@ -976,7 +976,7 @@ translate spanish guidance_af4b78c1:
 translate spanish guidance_2f29b99d:
 
     # a "YUUNA!" with vpunch
-    a "" with vpunch
+    a "¡YUUNA!" with vpunch
 
 # game/script.rpy:524
 translate spanish guidance_fb122490:
@@ -1000,73 +1000,73 @@ translate spanish guidance_d489b658:
 translate spanish guidance_0dfac90f:
 
     # a "What your mother said was undoubtedly cruel, but there are other ways of coping with the emotional pain besides harming yourself."
-    a ""
+    a "Lo que dijo tu madre fue indudablemente cruel, pero hay otras maneras de lidiar con el dolor emocional, además de herirte."
 
 # game/script.rpy:528
 translate spanish guidance_dd4dbc77:
 
     # y "Like what?"
-    y ""
+    y "¿Como qué?"
 
 # game/script.rpy:529
 translate spanish guidance_f5dc2dc6:
 
     # a "Like... um... relying on me!"
-    a ""
+    a "Como... eh... ¡confiar en mí!"
 
 # game/script.rpy:530
 translate spanish guidance_545d0e16:
 
     # a "You said it yourself. I'm an angel sent from heaven to help you. That's my entire reason for existing."
-    a ""
+    a "Tú misma lo dijiste. Soy un ángel enviado del cielo para ayudarte. Esa es mi única razón para existir."
 
 # game/script.rpy:531
 translate spanish guidance_e6972897:
 
     # a "Instead of hurting yourself, you can talk to me, day or night. I'll be there."
-    a ""
+    a "En lugar de herirte, puedes hablar conmigo, día y noche. Ahí estaré."
 
 # game/script.rpy:532
 translate spanish guidance_ba83b5bb:
 
     # y "Your... entire reason for existing... is me?"
-    y ""
+    y "Tu... única razón de existir... ¿soy yo?"
 
 # game/script.rpy:533
 translate spanish guidance_489e707c:
 
     # a "Yes. It hurts me to see you hurting. I'm pretty sure that's what that feeling in my chest is, anyways."
-    a ""
+    a "Sí. me duele ver que te duele. Estoy segura que eso es lo que siento en mi pecho, de todas maneras."
 
 # game/script.rpy:534
 translate spanish guidance_7d769911:
 
     # y "Oh no... I made Ai-chan sad. I really am garbage."
-    y ""
+    y "Oh, no... he puesto a ai-chan triste. Soy una basura."
 
 # game/script.rpy:535
 translate spanish guidance_46d7d81d:
 
     # a "Don't worry about me, ok? Do you have any bandages for your arm?"
-    a ""
+    a "No te preocupes por mi, ¿vale? ¿Tienes algunas vendas para tu brazo?"
 
 # game/script.rpy:536
 translate spanish guidance_a3fab142:
 
     # y "Uh-huh."
-    y ""
+    y "S- sí."
 
 # game/script.rpy:537
 translate spanish guidance_03fc9143:
 
     # a "Alright, I want you to go get the bandages and patch yourself up in front of me, got it?"
-    a ""
+    a "Muy bien, quiero que agarres las vendas y te las pongas delante mía, ¿vale?"
 
 # game/script.rpy:538
 translate spanish guidance_eaf7afb0:
 
     # y "O-ok."
-    y ""
+    y "Va- vale."
 
 # game/script.rpy:548
 translate spanish guidance_d37746a5:
