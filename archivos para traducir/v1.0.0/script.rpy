@@ -766,163 +766,163 @@ translate spanish guidance_b50706e9:
 translate spanish guidance_bf0b6843:
 
     # ym "That's good, that's good. {w}How's university going? Hopefully you're getting better grades than you did in high school, haha. Meet any cute boys?"
-    ym ""
+    ym "Está bien, está bien. {w}¿Cómo va la universidad? Espero que estés sacando mejores notas que en el instituto, jajaja. ¿Has conocido a algún chico mono?"
 
 # game/script.rpy:463
 translate spanish guidance_1984a35a:
 
     # y "....."
-    y ""
+    y "....."
 
 # game/script.rpy:465
 translate spanish guidance_6409143b:
 
     # a "C'mon Yuuna-chan! Tell her. You'll feel so much better afterwards."
-    a ""
+    a "¡Vamos, Yuuna-chan! Díselo. Te sentirás mucho mejor de todos modos."
 
 # game/script.rpy:467
 translate spanish guidance_b3f80794:
 
     # ym "Is someone there with you, dear? I swear I heard a voice just now."
-    ym ""
+    ym "¿Hay alguien ahí contigo, cariño? Juraría haber oído una voz justo ahora."
 
 # game/script.rpy:469
 translate spanish guidance_3aa240fe:
 
     # y "No, no, it's nothing, just-"
-    y ""
+    y "No, no, no es nada, solo-"
 
 # game/script.rpy:470
 translate spanish guidance_4e6c349c:
 
     # ym "Just what?"
-    ym ""
+    ym "¿Solo qué?"
 
 # game/script.rpy:473
 translate spanish guidance_7216dfeb:
 
     # y "There is no university, Mom."
-    y ""
+    y "No hay universidad, mamá."
 
 # game/script.rpy:474
 translate spanish guidance_e6d4dc7d:
 
     # ym "What? Of course there is, don't be ridiculous."
-    ym ""
+    ym "¿Qué? Claro que la hay, no seas ridícula."
 
 # game/script.rpy:476
 translate spanish guidance_c618150c:
 
     # y "No, I mean, I'm not going to university."
-    y ""
+    y "No, me refiero, no estoy yendo a la universidad."
 
 # game/script.rpy:477
 translate spanish guidance_b3930e85:
 
     # ym "Ahah- honey, you're not making any sense. You- you dropped out?"
-    ym ""
+    ym "Ajaja- cariño, lo que dices no tiene sentido. Lo- ¿lo has dejado?"
 
 # game/script.rpy:479
 translate spanish guidance_96112c83:
 
     # y "I didn't drop out. I- I never started."
-    y ""
+    y "No lo he dejado. Yo- yo nunca empecé."
 
 # game/script.rpy:481
 translate spanish guidance_529d26b7:
 
     # ym "You never started."
-    ym ""
+    ym "Nunca empezaste."
 
 # game/script.rpy:483
 translate spanish guidance_249f5b8b:
 
     # y "Yeah. I, um, missed the enrollment period twice."
-    y ""
+    y "Sí. Yo, eh, perdí el período de inscripción en dos ocasiones."
 
 # game/script.rpy:484
 translate spanish guidance_50f9dd5c:
 
     # ym "Then what the hell have you been doing in Tokyo for two years?!"
-    ym ""
+    ym "Entonces, ¿¡Qué diablos has estado haciendo en Tokyo dos años?!"
 
 # game/script.rpy:485
 translate spanish guidance_1bb244cc:
 
     # ym "Do you know how much we spend on you? You selfish, ungrateful child."
-    ym ""
+    ym "¿Sabes cuánto hemos gastado en ti? Niña egoísta e ingrata."
 
 # game/script.rpy:486
 translate spanish guidance_5d191c3c:
 
     # ym "We sent you to the city so you could get an education and move up in life. And you squandered that opportunity!"
-    ym ""
+    ym "Te mandamos a la ciudad para que pudieses conseguir estudios y tener una mejor vida, ¡y desperdicias esa oportunidad!"
 
 # game/script.rpy:487
 translate spanish guidance_fbf69fdc:
 
     # ym "Have you at least found someone to take care of you? Or was this a total waste?"
-    ym ""
+    ym "¿Has encontrado al menos a alguien que te cuide? ¿O ha sido un total desperdicio?"
 
 # game/script.rpy:488
 translate spanish guidance_102cb975:
 
     # y "...Nobody so far."
-    y ""
+    y "... Nadie aún."
 
 # game/script.rpy:489
 translate spanish guidance_3db513dd:
 
     # ym "So you're not getting an education, you don't have a partner, and I doubt you have a job. What are you even doing all day? Laying around in your own filth like a cockroach?"
-    ym ""
+    ym "Así que no tienes estudios, no tienes pareja y dudo que tengas un trabajo. ¿Qué es lo que quieres hacer todo el día? ¿Tumbarte en tu propia inmundicia como una cucaracha?"
 
 # game/script.rpy:491
 translate spanish guidance_ae4bfad7:
 
     # y "!!!"
-    y ""
+    y "!!!"
 
 # game/script.rpy:492
 translate spanish guidance_961ca670:
 
     # ym "Being a productive member of society is the only real way to live. I did not spend 18 years of my life raising some worthless shut-in!"
-    ym ""
+    ym "Ser un miembro productivo de la sociedsd es la única manera real de vivir. ¡No he gastado 18 años de mi vida criando a un prisionero inútil."
 
 # game/script.rpy:494
 translate spanish guidance_7ec41001:
 
     # y "I'm not a cockroach..."
-    y ""
+    y "No soy una cucaracha..."
 
 # game/script.rpy:495
 translate spanish guidance_cb776ed5:
 
     # ym "Then stop acting like one and do something with your life."
-    ym ""
+    ym "Pues deja de actuar como una y haz algo con tu vida."
 
 # game/script.rpy:496
 translate spanish guidance_00434314:
 
     # ym "The application deadline for spring semester closes first week of November. Do not fail me and your father for a third time."
-    ym ""
+    ym "La fecha límite de inscripción para el semestre de primavera acaba la primera semana de noviembre. No nos decepciones a mí y a tu padre por tercera vez."
 
 # game/script.rpy:498
 translate spanish guidance_bb77b606:
 
     # y "I'm NOT a cockroach!!"
-    y ""
+    y "¡¡No SOY una cucaracha!!"
 
 # game/script.rpy:499
 translate spanish guidance_dc3ba7c7:
 
     # ym "I heard you the first time!"
-    ym ""
+    ym "¡Te escuché la primera vez!"
 
 # game/script.rpy:501
 translate spanish guidance_3ec4deaa:
 
     # y "You- you smother me with your f-fucking expectations! Why do you think I avoided your calls for so long?!"
-    y ""
+    y "¡Me- me asfixias con tus p- putas expectativas! ¿¡Por qué piensas que evité tus llamadas tanto tiempo?!"
 
 # game/script.rpy:502
 translate spanish guidance_9b1ad5eb:
