@@ -52,7 +52,7 @@ translate spanish strings:
 
     # game/screens.rpy:309
     old "About"
-    new "Acerca"
+    new "Opciones"
 
     # game/screens.rpy:314
     old "Help"
@@ -60,7 +60,7 @@ translate spanish strings:
 
     # game/screens.rpy:320
     old "Quit"
-    new "Quitar"
+    new "Salir"
 
     # game/screens.rpy:327
     old "Start"
