@@ -176,7 +176,7 @@ translate spanish strings:
 
     # game/screens.rpy:913
     old "Language"
-    new "Lenguaje"
+    new "Idioma"
 
     # game/screens.rpy:1034
     old "The dialogue history is empty."
