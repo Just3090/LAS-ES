@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/screens.rpy:249
     old "History"
-    new "Historia"
+    new "Historial"
 
     # game/screens.rpy:250
     old "Skip"
