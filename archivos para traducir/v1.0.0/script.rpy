@@ -1096,55 +1096,55 @@ translate spanish guidance_3aee1399:
 translate spanish guidance_57d6d5a9:
 
     # a "See, we match now!"
-    a ""
+    a "Ves,ahora combinamos!"
 
 # game/script.rpy:556
 translate spanish guidance_7cd348b0:
 
     # y "A-Ai-chan, you're embarrassing me..."
-    y ""
+    y "A-Ai-chan, me ewtas avergonzadome..."
 
 # game/script.rpy:558
 translate spanish guidance_2588fac4:
 
     # a "Mmm, but your heart isn't crying out in pain anymore, is it?"
-    a ""
+    a "Mmm, pero tu corazón no se siente vacio ahora, o si?"
 
 # game/script.rpy:560
 translate spanish guidance_16e48224:
 
     # y "I guess not."
-    y ""
+    y "Creo que no."
 
 # game/script.rpy:562
 translate spanish guidance_55b665f6:
 
     # a "From now on, please rely on me, Yuuna-chan."
-    a ""
+    a "De ahora en adelante , por favor confia en mi ,Yuuna-chan."
 
 # game/script.rpy:564
 translate spanish guidance_e29a91f6:
 
     # y "...I will. Thank you, Ai-chan."
-    y ""
+    y "...lo prometo. Gracias, Ai-chan."
 
 # game/script.rpy:573
 translate spanish deflect_a42b906b:
 
     # y "I-I'm not sure how, how that would help."
-    y ""
+    y "N-no estoy seguro como eso va a ayudar."
 
 # game/script.rpy:575
 translate spanish deflect_dda9827c:
 
     # a "You can't properly calm down when you're hyperventilating."
-    a ""
+    a "No te vas a poder calmar si te estas hiperventilando."
 
 # game/script.rpy:576
 translate spanish deflect_01b5c3c0:
 
     # y "O-oh, I didn't notice. Is that why I feel lightheaded?"
-    y ""
+    y "O-oh, No me habia percatado. Es por eso que me siento mareado?"
 
 # game/script.rpy:577
 translate spanish deflect_d5bf52f7:
