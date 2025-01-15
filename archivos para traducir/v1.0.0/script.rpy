@@ -1096,13 +1096,13 @@ translate spanish guidance_3aee1399:
 translate spanish guidance_57d6d5a9:
 
     # a "See, we match now!"
-    a "Ves,ahora combinamos!"
+    a "Ves, ahora combinamos!"
 
 # game/script.rpy:556
 translate spanish guidance_7cd348b0:
 
     # y "A-Ai-chan, you're embarrassing me..."
-    y "A-Ai-chan, me ewtas avergonzadome..."
+    y "A-Ai-chan, me estas avergonzadome..."
 
 # game/script.rpy:558
 translate spanish guidance_2588fac4:
@@ -1120,7 +1120,7 @@ translate spanish guidance_16e48224:
 translate spanish guidance_55b665f6:
 
     # a "From now on, please rely on me, Yuuna-chan."
-    a "De ahora en adelante , por favor confia en mi ,Yuuna-chan."
+    a "De ahora en adelante, por favor confia en mi, Yuuna-chan."
 
 # game/script.rpy:564
 translate spanish guidance_e29a91f6:
@@ -1132,7 +1132,7 @@ translate spanish guidance_e29a91f6:
 translate spanish deflect_a42b906b:
 
     # y "I-I'm not sure how, how that would help."
-    y "N-no estoy seguro como eso va a ayudar."
+    y "N-no estoy segura como eso va a ayudar."
 
 # game/script.rpy:575
 translate spanish deflect_dda9827c:
@@ -1144,7 +1144,7 @@ translate spanish deflect_dda9827c:
 translate spanish deflect_01b5c3c0:
 
     # y "O-oh, I didn't notice. Is that why I feel lightheaded?"
-    y "O-oh, No me habia percatado. Es por eso que me siento mareado?"
+    y "O-oh, No me habia percatado. Es por eso que me siento mareada?"
 
 # game/script.rpy:577
 translate spanish deflect_d5bf52f7:
