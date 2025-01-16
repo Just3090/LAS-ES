@@ -1084,13 +1084,13 @@ translate spanish guidance_d28449e9:
 translate spanish guidance_d7d38eda:
 
     # a "Press the gauze pad to the wound- yes, like that. {w}Imagine it's my hands wrapping the bandage around your arm, keeping a steady pressure the whole time. Don't wrap it too tightly. Good."
-    a ""
+    a "Presiona la gasa contra la herida- sí, así. {w}Imagina que son mis manos las que envuelven tu brazo con la venda, manteniendo una presión constante todo el tiempo. No lo aprietes mucho. Bien."
 
 # game/script.rpy:552
 translate spanish guidance_3aee1399:
 
     # a "There. All better."
-    a ""
+    a "Ya está. Mucho mejor."
 
 # game/script.rpy:554
 translate spanish guidance_57d6d5a9:
