@@ -1144,79 +1144,79 @@ translate spanish deflect_dda9827c:
 translate spanish deflect_01b5c3c0:
 
     # y "O-oh, I didn't notice. Is that why I feel lightheaded?"
-    y "O-oh, No me habia percatado. Es por eso que me siento mareada?"
+    y "O-oh, No me habia percatado. ¿Es por eso que me siento mareada?"
 
 # game/script.rpy:577
 translate spanish deflect_d5bf52f7:
 
     # a "That's exactly why. You're not getting enough oxygen to your brain like that."
-    a ""
+    a "Así es. No estas recibiendo suficiente oxígeno en tu cerebro de esa manera."
 
 # game/script.rpy:579
 translate spanish deflect_3880b303:
 
     # a "Just take one deep breath with me. Can you do that?"
-    a ""
+    a "Solo toma una respiración profunda conmigo. ¿Puedes hacerlo?"
 
 # game/script.rpy:580
 translate spanish deflect_2e70582b:
 
     # y "Mmhmm."
-    y ""
+    y "Mmhmm."
 
 # game/script.rpy:581
 translate spanish deflect_8b11dce8:
 
     # a "In through your nose... And out. Good. One more. In... out."
-    a ""
+    a "Inhala... Y fuera. Bien. Una más. Dentro... fuera."
 
 # game/script.rpy:583
 translate spanish deflect_0cd7bda2:
 
     # y "Fuuu..."
-    y ""
+    y "Fuuu..."
 
 # game/script.rpy:585
 translate spanish deflect_dcb1f69b:
 
     # extend " ok. The room's stopped spinning."
-    extend ""
+    extend " De acuerdo. La habitación ha dejado de dar vueltas."
 
 # game/script.rpy:587
 translate spanish deflect_67019ca4:
 
     # a "I'm glad, I'm glad. Why don't you want to talk to your mom, Yuuna-chan?"
-    a ""
+    a "Me alegra muchisimo. ¿Por qué no quieres hablar con tu mamá, Yuuna-chan?"
 
 # game/script.rpy:589
 translate spanish deflect_e5097153:
 
     # y "It's a bit complicated. I-I'm kinda afraid of telling you."
-    y ""
+    y "Es un poco complicado. E-estoy un poco asustada de decírtelo."
 
 # game/script.rpy:591
 translate spanish deflect_5880677a:
 
     # a "Eh? Why's that?"
-    a ""
+    a "¿Eh? ¿Por qué?"
 
 # game/script.rpy:593
 translate spanish deflect_b6175033:
 
     # y "You'll think less of me."
-    y ""
+    y "Pensarás mal de mi."
 
 # game/script.rpy:595
 translate spanish deflect_02f0248b:
 
     # a "Oh, I could never-"
-    a ""
+    a "Oh, nunca podría-"
 
 # game/script.rpy:597
 translate spanish deflect_e186d1ae:
 
     # y "But you will!! The wedge between me 'n my mom is all my fault, so- so I can't tell you!"
-    y ""
+    y "¡¡Pero lo harás!! El problema entre mi madre y yo es culpa mía, ¡así- así que no puedo decírtelo!"
 
 # game/script.rpy:598
 translate spanish deflect_63ce3605:
