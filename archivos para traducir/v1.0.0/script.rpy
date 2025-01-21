@@ -2842,7 +2842,7 @@ translate spanish day4_3d8db191:
 translate spanish day4_ca553f03:
 
     # y "How the hell did you pronounce that."
-    y "¿Cómo demonios pronunciaste eso?"	
+    y "¿Cómo demonios pronunciaste eso?"
 
 # game/script.rpy:1110
 translate spanish day4_36775d76:
