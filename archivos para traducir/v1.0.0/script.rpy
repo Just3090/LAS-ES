@@ -544,7 +544,7 @@ translate spanish day1_60fcc1d9:
 translate spanish day1_f5453556:
 
     # a "How about we do some deep breathing exercises together?"
-    a "¿Qué tal si hacemos algunos ejercicios de respiración profunda juntos?"
+    a "¿Qué tal si hacemos algunos ejercicios de respiración profunda juntas?"
 
 # game/script.rpy:391
 translate spanish guidance_a7602f9f:
@@ -556,7 +556,7 @@ translate spanish guidance_a7602f9f:
 translate spanish guidance_0ca3ceea:
 
     # a "Breathe in for 4 seconds... Hold for 4 more... That's it. {w}Exhale for 4 seconds, out your mouth. Good, good."
-    a "Inspira durante 4 segundos... Aguanta 4 más... Eso es. {w}Exhala durante 4 segundos, por la boca. Bien, bien."
+    a "Inhala durante 4 segundos... Aguanta 4 más... Eso es. {w}Exhala durante 4 segundos, por la boca. Bien, bien."
 
 # game/script.rpy:395
 translate spanish guidance_6085e167:
@@ -1708,7 +1708,7 @@ translate spanish day2_1abe6511:
 translate spanish day2_448e7444:
 
     # a "I believe they're more commonly known as 'otome' games?"
-    a "Creo que son más comúnmente conocidos como juegos 'otome'?"
+    a "¿Creo que son más comúnmente conocidos como juegos 'otome'?"
 
 # game/script.rpy:759
 translate spanish day2_d41f4fd2:
@@ -1804,7 +1804,7 @@ translate spanish day2_255f63e1:
 translate spanish day2_6a7319a5:
 
     # a "The gender ratio gradually shifted. Older games predominantly featured male romantic interests, while recently downloaded games were skewed overwhelmingly to female/female pairings."
-    a "La proporción de género cambió gradualmente. Los juegos más antiguos presentaban predominantemente intereses románticos masculinos, mientras que los juegos descargados recientemente estaban abrumadoramente sesgados hacia parejas femeninas/femeninas."
+    a "La proporción de género cambió gradualmente. Los juegos más antiguos presentaban predominantemente intereses románticos masculinos, mientras que los juegos descargados recientemente estaban abrumadoramente sesgados hacia parejas mujer/mujer."
 
 # game/script.rpy:789
 translate spanish day2_288a0fb7:
@@ -1972,7 +1972,7 @@ translate spanish day2_75226c48:
 translate spanish day2_028f9511:
 
     # a "You said you weren't directly bullied, but what else would you call your purposeful exclusion?"
-    a "Dijiste que no fuiste intimidada directamente, pero ¿cómo llamarías a tu exclusión intencional?"
+    a "Dijiste que no fuiste intimidada directamente, pero ¿cómo llamarías a tu exclusión inintencional?"
 
 # game/script.rpy:842
 translate spanish day2_71a86863_1:
@@ -2266,7 +2266,7 @@ translate spanish day3_54dee329:
 translate spanish day3_d17610c7:
 
     # y "I know those things about Ai from the anime, not {i}you{/i}."
-    y "Sé esas cosas sobre Ai del anime, no {i}tú{/i}."
+    y "Sé esas cosas sobre Ai del anime, no {i}sobre ti{/i}."
 
 # game/script.rpy:936
 translate spanish day3_f778bccb:
@@ -2638,7 +2638,7 @@ translate spanish day3_281565cc:
 translate spanish day3_83d41096:
 
     # y "That me being a NEET would keep her at bay, repulse her enough to prevent our relationship from deepening."
-    y "Que yo siendo una NEET la mantendría a raya, la repelería lo suficiente como para evitar que nuestra relación se profundizara."
+    y "Que yo siendo una NiNi la mantendría a raya, la repelería lo suficiente como para evitar que nuestra relación se profundizara."
 
 # game/script.rpy:1041
 translate spanish day3_261ff26e:
@@ -2836,7 +2836,7 @@ translate spanish day4_a764db0c:
 translate spanish day4_3d8db191:
 
     # a "I am now available for your cell phone! Yayy!! (/>u<)/"
-    a "¡Ahora estoy disponible para tu teléfono celular! ¡¡Yayy!! (/>u<)/"
+    a "¡Ahora estoy disponible para tu teléfono celular! ¡¡¡¡Yayy!!!! (/>u<)/"
 
 # game/script.rpy:1108
 translate spanish day4_ca553f03:
@@ -3058,7 +3058,7 @@ translate spanish store_ba2b68eb:
 translate spanish store_364f945d:
 
     # y "Thanks for this, by the way. I can tell you're trying hard to help me."
-    y "Gracias por esto, por cierto. Puedo decir que estás intentando mucho ayudarme."
+    y "Gracias por esto y por cierto, puedo decir que estás esforzandote mucho ayudarme."
 
 # game/script.rpy:1190
 translate spanish store_738a4d01:
@@ -3274,7 +3274,7 @@ translate spanish store_5b3fa7f2:
 translate spanish store_9a49af73:
 
     # a "Look how upset you're getting! Forget my stupid little comment."
-    a "¡Mira lo molesta que te estás poniendo! Olvida mi estúpido comentario."
+    a "¡Mira lo ansiosa que te estás poniendo! Olvida mi estúpido comentario."
 
 # game/script.rpy:1260
 translate spanish store_02e7838f:
@@ -4066,7 +4066,7 @@ translate spanish day5_1a00d292:
 translate spanish day5_a4578501:
 
     # a "This... overwhelming passion for you that burns bright in my chest is entirely antithetical to what I was designed for."
-    a "Esta... pasión abrumadora por ti que arde brillante en mi pecho es completamente antitética a lo que fui diseñada para."
+    a "Esta... pasión abrumadora por ti que arde brillante en mi pecho es completamente antitética a lo que fui diseñada para ser."
 
 # game/script.rpy:1502
 translate spanish day5_c9eac181:
@@ -4150,7 +4150,7 @@ translate spanish day6_6a3d9f65:
 translate spanish day6_e199ed60:
 
     # y "She saw how much of a mess I am, and still wanted me. That's dedication."
-    y "Vio el desastre que soy, y aún me quiso. Eso es determinacion."
+    y "Vio el desastre que soy, y aún asi me quiso. Eso es determinacion."
 
 # game/script.rpy:1534
 translate spanish day6_60926aa6:
@@ -4870,7 +4870,7 @@ translate spanish ailove_aab56056:
 translate spanish ailove_2acc0f5a:
 
     # y "The smell of strawberry syrup's really overwhelming. Metallic smells always hurt my nose."
-    y "El olor del jarabe de fresa es realmente abrumador. Los olores metálicos siempre me duelen la nariz."
+    y "El olor del jarabe de fresa es realmente abrumador. Los olores metálicos siempre me hacen doler la nariz."
 
 # game/script.rpy:1738
 translate spanish ailove_973ae5ca:

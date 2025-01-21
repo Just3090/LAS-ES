@@ -116,7 +116,7 @@ translate spanish strings:
 
     # game/screens.rpy:778
     old "Upload Sync"
-    new "Subir Sincronización"
+    new "Cargar partida"
 
     # game/screens.rpy:782
     old "Download Sync"
