@@ -994,7 +994,7 @@ translate spanish guidance_5c64ac92:
 translate spanish guidance_d489b658:
 
     # a "You poor thing..."
-    a "Pobrecito."
+    a "Pobrecita."
 
 # game/script.rpy:527
 translate spanish guidance_0dfac90f:
