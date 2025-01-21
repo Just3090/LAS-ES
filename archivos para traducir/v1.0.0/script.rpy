@@ -2836,7 +2836,7 @@ translate spanish day4_a764db0c:
 translate spanish day4_3d8db191:
 
     # a "I am now available for your cell phone! Yayy!! (/>u<)/"
-    a "¡Ahora estoy disponible para tu teléfono celular! ¡¡¡¡Yayy!!!! (/>u<)/"
+    a "¡Ahora estoy disponible para tu teléfono celular! ¡¡Yayy!!\n(/>u<)/"
 
 # game/script.rpy:1108
 translate spanish day4_ca553f03:
